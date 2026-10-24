@@ -1,0 +1,7 @@
+Dataset,Model,Accuracy,Precision,Recall,F1
+Adult Income,Decision Tree,0.8133,0.6106,0.624,0.6172
+Adult Income,Logistic Regression,0.8511,0.7348,0.5975,0.6591
+Adult Income,Majority Baseline,0.7592,0.0,0.0,0.0
+Breast Cancer,Decision Tree,0.9245,0.9022,0.8973,0.898
+Breast Cancer,Logistic Regression,0.9775,0.9814,0.9586,0.9693
+Breast Cancer,Majority Baseline,0.6274,0.0,0.0,0.0
