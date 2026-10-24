@@ -1,0 +1,7 @@
+Dataset,Model,MAE,RMSE,R2
+Daily Minimum Temperatures,Decision Tree,2.0714,2.6589,0.5695
+Daily Minimum Temperatures,Mean Baseline,3.2715,4.0537,-0.0006
+Daily Minimum Temperatures,Ridge Regression,2.0026,2.572,0.5972
+Red Wine,Decision Tree,0.4599,0.7865,0.0429
+Red Wine,Mean Baseline,0.6838,0.8076,-0.0048
+Red Wine,Ridge Regression,0.5059,0.6525,0.3431

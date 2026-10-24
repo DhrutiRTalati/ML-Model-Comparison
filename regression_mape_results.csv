@@ -1,0 +1,7 @@
+Dataset,Model,MAPE_percent,Excluded_zero_targets
+Red Wine,Mean Baseline,12.51,0
+Red Wine,Ridge Regression,9.29,0
+Red Wine,Decision Tree,8.31,0
+Daily Minimum Temperatures,Mean Baseline,43.0,2
+Daily Minimum Temperatures,Ridge Regression,24.25,2
+Daily Minimum Temperatures,Decision Tree,25.45,2
